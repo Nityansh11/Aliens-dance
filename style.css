@@ -1,0 +1,39 @@
+body{
+    background:lightskyblue;
+}
+.header_div{
+    background-color: white;
+    color: red;
+    font-family: 'Special Elite', cursive;
+}
+.header_div p{
+    font-family: 'Coming Soon', cursive;
+font-family: 'Special Elite', cursive;
+    color: grey;
+    font-size: 12px;
+    letter-spacing: 2px;
+    font-weight: bold ;
+}
+h3,h4{
+    font-family: 'Coming Soon', cursive;
+    font-family: 'Special Elite', cursive;  
+}
+
+button{
+    margin-top: 30px;
+    width: 150px;
+    font-weight: bolder;
+}
+.copy_right_footer{
+    text-align: center;
+    width: 100%;
+    font-size: 15px;
+    color: darkblue;
+    font-family: cursive;
+    position: fixed;
+    background: white;
+    margin-top: 20px;
+    line-height: 3;
+   bottom: 0;
+text-shadow: 5px 5px 5px rgb(151, 149, 149);
+}
